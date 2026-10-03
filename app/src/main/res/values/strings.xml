@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TreA</string>
+    <string name="tab_home">主页</string>
+    <string name="tab_music">音乐</string>
+    <string name="tab_ledger">账本</string>
+    <string name="tab_notes">笔记</string>
+    <string name="tab_settings">设置</string>
+</resources>
